@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="anytone-dmr-contactlist-generator:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="anytone-dmr-contactlist-generator.jar">
+      <element id="module-output" name="anytone-dmr-contactlist-generator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20220320/json-20220320.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-text/1.9/commons-text-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
